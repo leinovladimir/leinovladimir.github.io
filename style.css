@@ -1,8 +1,0 @@
-:root {
-    --DarkNavy: #1F314F;
-    --LightGrey: #D5E1EF;
-}
-
-body {
-    background-color: var(--LightGrey);
-}
